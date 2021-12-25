@@ -1,2 +1,2 @@
-# AfricaBlackList
-African BlackList " Malicious IP addresses or Command &amp; Controls". 
+# African BlackList
+African BlackList " Malicious IP addresses or Command &amp; Controls, Domains & Bad Hashs". 
