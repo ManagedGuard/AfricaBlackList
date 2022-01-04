@@ -1,3 +1,5 @@
 
-t.mfroute.com
-nicsorts-accarade.com
+0.0.0.0 t.mfroute.com
+0.0.0.0 nicsorts-accarade.com
+0.0.0.0 www.amazonco.uk
+0.0.0.0 qq.com
